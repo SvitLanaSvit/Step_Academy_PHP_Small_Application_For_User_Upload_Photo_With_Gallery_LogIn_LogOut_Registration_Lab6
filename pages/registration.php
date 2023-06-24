@@ -70,7 +70,6 @@
 
             <div class="btn-group">
                 <button type="submit" name="submit" class="btn btn-primary">Register</button>
-                <a href="menu.php" class="btn btn-secondary">Back to menu</a>
             </div>
         </form>
     </div>

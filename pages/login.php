@@ -46,7 +46,6 @@
 
             <div class="btn-group">
                 <button type="submit" name="submit" class="btn btn-primary">Log in</button>
-                <a href="menu.php" class="btn btn-secondary">Back to menu</a>
             </div>    
         </form>
     </div>
